@@ -12,6 +12,5 @@ pip install -r requirements.txt
 ### [Expense Tracker](ExpenseTracker/INFO.md)
 ### [Password Generator](PasswordGenerator/INFO.md)
 ### [QR Code](QR_Code_Generator/INFO.md)
-### [Text Encryption](TextEncryption/INFO.md)
 ### [Text to Speech](TextToSpeech/INFO.md)
 ### [Video Downloader](VideoDownloader/INFO.md)
