@@ -1,0 +1,1 @@
+DOWNLOAD_LOGO = "./src/icons/Download.png"
